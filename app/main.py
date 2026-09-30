@@ -21,7 +21,7 @@ chat_service = ChatService(initiate_service, grok_client, menu_service, session_
 router.chat_service = chat_service
 
 
-app = FastAPI(title=settings.app_name, version=settings.app_version, debug=settings.debug)
+app = FastAPI(title="Gohu-Chatbot", version="1.0.1", debug=False)
 cors_origins = os.getenv("CORS_ORIGINS", "http://localhost:5173").split(",")
 app.add_middleware(
     CORSMiddleware,
