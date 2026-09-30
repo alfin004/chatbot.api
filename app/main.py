@@ -9,6 +9,7 @@ from app.services.initiate_service import InitiateService
 from app.services.menu_service import MenuService
 from fastapi.middleware.cors import CORSMiddleware
 from app.services.session_service import SessionService
+import os
 
 settings = get_settings()
 menu_repository = MenuRepository(Path(__file__).parent / "data" / "menu.json")
@@ -19,13 +20,12 @@ grok_client = GroqClient(settings)
 chat_service = ChatService(initiate_service, grok_client, menu_service, session_service)
 router.chat_service = chat_service
 
-app = FastAPI(title=settings.app_name, version=settings.app_version, debug=settings.debug)
 
+app = FastAPI(title=settings.app_name, version=settings.app_version, debug=settings.debug)
+cors_origins = os.getenv("CORS_ORIGINS", "http://localhost:5173").split(",")
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-    ],
+    allow_origins=cors_origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
