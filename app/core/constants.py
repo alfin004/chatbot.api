@@ -1,0 +1,34 @@
+from enum import Enum
+
+
+class Intent(str, Enum):
+    GREETING = "GREETING"
+    THANKS = "THANKS"
+    HELP = "HELP"
+    ADD = "ADD"
+    REMOVE = "REMOVE"
+    UPDATE = "UPDATE"
+    LIST = "LIST"
+    CLEAR_CART = "CLEAR_CART"
+    CHECKOUT = "CHECKOUT"
+    CANCEL_ORDER = "CANCEL_ORDER"
+    ORDER_STATUS = "ORDER_STATUS"
+    UNKNOWN = "UNKNOWN"
+    MENU = "MENU"
+
+
+class ChatStatus(str, Enum):
+    COMPLETED = "COMPLETED"
+    CLARIFICATION_REQUIRED = "CLARIFICATION_REQUIRED"
+    ITEM_NOT_FOUND = "ITEM_NOT_FOUND"
+    OUT_OF_STOCK = "OUT_OF_STOCK"
+    INVALID_REQUEST = "INVALID_REQUEST"
+    UNKNOWN_INTENT = "UNKNOWN_INTENT"
+
+
+SUPPORTED_ACTIONS = {
+    Intent.ADD,
+    Intent.REMOVE,
+    Intent.UPDATE,
+    Intent.LIST,
+}

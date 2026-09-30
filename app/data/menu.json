@@ -1,0 +1,903 @@
+{
+  "name": "Thomson's Casa Restaurant",
+  "address": "",
+  "mobile_number": "",
+  "items": [
+    {
+      "id": "99c7e95a-7fd4-4853-902f-76a927b5c10b",
+      "name": "Nut & Bolt",
+      "price": 160,
+      "unit": null,
+      "category": "Non-Veg Starters",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "nut and bolt",
+        "nut bolt",
+        "starter",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "0ba18bc5-b6bd-4086-b579-aa85213a56df",
+      "name": "PEP (Pothichu Porichathu)",
+      "price": 230,
+      "unit": null,
+      "category": "Non-Veg Starters",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "pep",
+        "pothichu porichathu",
+        "pothichu",
+        "porichathu",
+        "starter",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "99d48c45-f2a4-43c1-8d99-0ad77b8bfca5",
+      "name": "Touching Fry",
+      "price": 165,
+      "unit": null,
+      "category": "Non-Veg Starters",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "touching fry",
+        "fry",
+        "starter",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "2e865f06-170b-4da7-b616-ff394316e359",
+      "name": "Chicken 65",
+      "price": 170,
+      "unit": null,
+      "category": "Non-Veg Starters",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "chicken 65",
+        "chicken",
+        "starter",
+        "fried chicken",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "de9d0c66-7929-479c-98ad-425f31982cc0",
+      "name": "Tangy Chicken Lollipop",
+      "price": 270,
+      "unit": null,
+      "category": "Non-Veg Starters",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "chicken lollipop",
+        "tangy chicken",
+        "lollipop",
+        "chicken",
+        "starter",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "19516780-d1bb-4118-954b-99fc2b3bdfe7",
+      "name": "Chicken Croquettes",
+      "price": 270,
+      "unit": null,
+      "category": "Non-Veg Starters",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "chicken croquettes",
+        "croquettes",
+        "chicken",
+        "starter",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "20296901-06a3-4f70-9f92-143275aaa7b5",
+      "name": "Supreme Fried Chicken",
+      "price": 270,
+      "unit": null,
+      "category": "Non-Veg Starters",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "supreme fried chicken",
+        "fried chicken",
+        "chicken",
+        "starter",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "8f9e6403-e82d-4f37-9908-dbd5e2e9983b",
+      "name": "Crispy Prawns",
+      "price": 270,
+      "unit": null,
+      "category": "Non-Veg Starters",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "crispy prawns",
+        "prawns",
+        "shrimp",
+        "seafood",
+        "starter",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "0d85be2d-da05-4228-8b9b-409df36fd4b7",
+      "name": "Panko Fried Chicken Wings",
+      "price": 270,
+      "unit": null,
+      "category": "Non-Veg Starters",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "panko chicken wings",
+        "chicken wings",
+        "panko",
+        "fried chicken",
+        "wings",
+        "starter",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "67f7fd35-70ac-4d69-8e6f-ac710ae873c0",
+      "name": "Paneer Fingers",
+      "price": 260,
+      "unit": null,
+      "category": "Veg Starters",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "paneer fingers",
+        "paneer",
+        "starter",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "31076b0c-f7ac-4ff8-bc2d-acd11010e5cb",
+      "name": "Tandoori Paneer",
+      "price": 320,
+      "unit": null,
+      "category": "Veg Starters",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "tandoori paneer",
+        "paneer",
+        "tandoori",
+        "starter",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "0a729901-f8f2-4797-b156-635d805e8a81",
+      "name": "Tandoori Mushroom",
+      "price": 320,
+      "unit": null,
+      "category": "Veg Starters",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "tandoori mushroom",
+        "mushroom",
+        "tandoori",
+        "starter",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "18b497ea-f94d-4be2-98ef-bdee2466325f",
+      "name": "Matta Rice",
+      "price": 90,
+      "unit": null,
+      "category": "Rice",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "matta rice",
+        "kerala rice",
+        "rice",
+        "red rice"
+      ]
+    },
+    {
+      "id": "ce5bb9dd-716c-4a5b-8922-73a5957b9888",
+      "name": "Ghee Rice",
+      "price": 150,
+      "unit": null,
+      "category": "Rice",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "ghee rice",
+        "rice",
+        "ghee"
+      ]
+    },
+    {
+      "id": "eb60e805-2136-4fd7-851a-544822605a7f",
+      "name": "Veg. Fried Rice",
+      "price": 190,
+      "unit": null,
+      "category": "Rice",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "veg fried rice",
+        "vegetable fried rice",
+        "fried rice",
+        "rice",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "e71665bb-2add-4ff0-a53a-c2d5c40b91f8",
+      "name": "Egg Fried Rice",
+      "price": 195,
+      "unit": null,
+      "category": "Rice",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "egg fried rice",
+        "fried rice",
+        "rice",
+        "egg"
+      ]
+    },
+    {
+      "id": "b23d59e2-d6e3-4c39-b732-601f507e774e",
+      "name": "Chicken Fried Rice",
+      "price": 215,
+      "unit": null,
+      "category": "Rice",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "chicken fried rice",
+        "chicken rice",
+        "fried rice",
+        "rice",
+        "chicken",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "db408c6b-3a0b-4806-8a8b-8d937ffa0f0a",
+      "name": "Beef Kheema Fried Rice",
+      "price": 295,
+      "unit": null,
+      "category": "Rice",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "beef kheema fried rice",
+        "beef fried rice",
+        "kheema",
+        "fried rice",
+        "rice",
+        "beef",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "735155ab-4daa-44ef-bb4e-57b568336e64",
+      "name": "Veg Biriyani",
+      "price": 185,
+      "unit": null,
+      "category": "Rice",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "veg biriyani",
+        "veg biryani",
+        "vegetable biriyani",
+        "biryani",
+        "rice",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "b9128833-143b-48dc-9ded-9c46f5c4fc81",
+      "name": "Egg Biriyani",
+      "price": 190,
+      "unit": null,
+      "category": "Rice",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "egg biriyani",
+        "egg biryani",
+        "biryani",
+        "rice",
+        "egg"
+      ]
+    },
+    {
+      "id": "625fb6f4-af2d-437a-8c7e-4960e309809f",
+      "name": "TCR Dum Biriyani",
+      "price": 230,
+      "unit": null,
+      "category": "Rice",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "tcr dum biriyani",
+        "tcr biryani",
+        "dum biriyani",
+        "dum biryani",
+        "biryani",
+        "rice"
+      ]
+    },
+    {
+      "id": "63564304-9f92-41c6-8e97-e38f74642a60",
+      "name": "Casa Dum Biriyani",
+      "price": 230,
+      "unit": null,
+      "category": "Rice",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "casa dum biriyani",
+        "casa biryani",
+        "dum biriyani",
+        "dum biryani",
+        "biryani",
+        "rice"
+      ]
+    },
+    {
+      "id": "7cdf2fd5-95ab-4ba0-ae78-84804c2d234c",
+      "name": "Veg",
+      "price": 190,
+      "unit": null,
+      "category": "Noodles",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "veg noodles",
+        "vegetable noodles",
+        "noodles",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "00829683-06c1-4753-bb1c-f29cf8313c1f",
+      "name": "Egg",
+      "price": 205,
+      "unit": null,
+      "category": "Noodles",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "egg noodles",
+        "noodles",
+        "egg"
+      ]
+    },
+    {
+      "id": "04864662-c2ad-4bd1-a9f8-09aec0c66007",
+      "name": "Chicken",
+      "price": 215,
+      "unit": null,
+      "category": "Noodles",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "chicken noodles",
+        "noodles",
+        "chicken",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "c9728c4e-cbf6-4b51-a10d-7879e4173f57",
+      "name": "Chicken Paal Curry",
+      "price": 180,
+      "unit": null,
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "chicken paal curry",
+        "chicken curry",
+        "paal curry",
+        "chicken",
+        "curry",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "4bcdd627-7bda-4cb9-93ec-d8c729143494",
+      "name": "Kozhi Uruli Roast",
+      "price": 185,
+      "unit": null,
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "kozhi uruli roast",
+        "kozhi",
+        "chicken",
+        "uruli roast",
+        "roast",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "d119289e-2764-4beb-bd26-f07af2676ac4",
+      "name": "Butter Chicken",
+      "price": 250,
+      "unit": null,
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "butter chicken",
+        "chicken",
+        "curry",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "f1afd6ef-577c-47f7-998b-80de62f18b7f",
+      "name": "Chilly Chicken",
+      "price": 250,
+      "unit": null,
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "chilly chicken",
+        "chilli chicken",
+        "chicken",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "bae93db1-8f91-4af2-a310-7f3fdaebb252",
+      "name": "Kadai Chicken",
+      "price": 250,
+      "unit": null,
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "kadai chicken",
+        "chicken",
+        "kadai",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "7a4ea8e3-7b33-41f3-8a25-42e33890096b",
+      "name": "Varutharacha Naadan Chicken Curry",
+      "price": 220,
+      "unit": null,
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "varutharacha chicken curry",
+        "naadan chicken curry",
+        "chicken curry",
+        "varutharacha",
+        "naadan",
+        "kerala",
+        "chicken",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "290a678c-f761-487c-b2bb-3e3f77d5d048",
+      "name": "Beef Varutharacha Roast",
+      "price": 220,
+      "unit": null,
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "beef varutharacha roast",
+        "beef roast",
+        "varutharacha",
+        "beef",
+        "roast",
+        "kerala",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "890bd6e8-3aa7-49e0-aff8-3f2ceff48204",
+      "name": "Naadan Pothichoru Fry",
+      "price": 220,
+      "unit": null,
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "naadan pothichoru fry",
+        "pothichoru",
+        "naadan",
+        "fry",
+        "kerala"
+      ]
+    },
+    {
+      "id": "e0c0eac0-c6aa-4fcb-9535-cd90b839746b",
+      "name": "Mutton Devadaram",
+      "price": 310,
+      "unit": null,
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "mutton devadaram",
+        "mutton",
+        "devadaram",
+        "non veg",
+        "non-veg"
+      ]
+    },
+    {
+      "id": "2e859512-d0e7-4be1-acdf-79233d33fc51",
+      "name": "Egg Pal Curry",
+      "price": 170,
+      "unit": null,
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "egg pal curry",
+        "egg paal curry",
+        "egg curry",
+        "paal curry",
+        "egg"
+      ]
+    },
+    {
+      "id": "1c1696a7-b004-43cc-b540-fa6e0f797e29",
+      "name": "Fish Mango Curry",
+      "price": null,
+      "unit": "size",
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "fish mango curry",
+        "mango fish curry",
+        "fish curry",
+        "mango curry",
+        "fish",
+        "seafood"
+      ]
+    },
+    {
+      "id": "93f4bc14-61d9-4f18-9bbb-ac09ecfcae4e",
+      "name": "Chemeen Tawa Fry",
+      "price": null,
+      "unit": "size",
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "chemeen tawa fry",
+        "prawn tawa fry",
+        "prawns",
+        "chemeen",
+        "tawa fry",
+        "seafood"
+      ]
+    },
+    {
+      "id": "65e73967-dc7f-47d5-9b88-3dfed6bdadab",
+      "name": "Squid Tawa Fry",
+      "price": null,
+      "unit": "size",
+      "category": "Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "squid tawa fry",
+        "squid",
+        "tawa fry",
+        "seafood"
+      ]
+    },
+    {
+      "id": "8467ad5a-d078-4ba3-9a17-ed4d73452cac",
+      "name": "Dal Fry",
+      "price": 120,
+      "unit": null,
+      "category": "Veg Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "dal fry",
+        "dal",
+        "lentils",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "636f90e0-ba07-4d9f-b972-c3b7f6cba279",
+      "name": "Veg Kuruma",
+      "price": 170,
+      "unit": null,
+      "category": "Veg Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "veg kuruma",
+        "vegetable kurma",
+        "vegetable kuruma",
+        "kuruma",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "18bd68db-da78-4b3a-a52e-399bea85a880",
+      "name": "Paneer Butter Masala",
+      "price": 250,
+      "unit": null,
+      "category": "Veg Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "paneer butter masala",
+        "paneer",
+        "butter masala",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "9f8ce398-2bff-40a8-bbec-2baa2378ffe8",
+      "name": "Kadai Paneer",
+      "price": 250,
+      "unit": null,
+      "category": "Veg Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "kadai paneer",
+        "paneer",
+        "kadai",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "c7481d43-68c3-4d8a-a0f8-e8acae4adc47",
+      "name": "Chilly Gobi",
+      "price": 220,
+      "unit": null,
+      "category": "Veg Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "chilly gobi",
+        "chilli gobi",
+        "gobi",
+        "cauliflower",
+        "chilli",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "f334aeb0-01c7-4129-bfc3-acadb5117c3a",
+      "name": "Chilly Paneer",
+      "price": 250,
+      "unit": null,
+      "category": "Veg Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "chilly paneer",
+        "chilli paneer",
+        "paneer",
+        "chilli",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "bede909f-48fa-4162-8962-e464fd29692e",
+      "name": "Chilly Mushroom",
+      "price": 250,
+      "unit": null,
+      "category": "Veg Main Course",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "chilly mushroom",
+        "chilli mushroom",
+        "mushroom",
+        "chilli",
+        "veg",
+        "vegetarian"
+      ]
+    },
+    {
+      "id": "e1f0c45d-070e-4040-af6c-75dd9a931b41",
+      "name": "Pathiri",
+      "price": 12,
+      "unit": "piece",
+      "category": "Breads",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "pathiri",
+        "pathiri bread",
+        "kerala bread",
+        "bread"
+      ]
+    },
+    {
+      "id": "389f670d-b0eb-44a5-9441-876bf162d2b8",
+      "name": "Idiyappam (Noolappam)",
+      "price": 18,
+      "unit": "piece",
+      "category": "Breads",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "idiyappam",
+        "noolappam",
+        "string hopper",
+        "kerala breakfast",
+        "breakfast"
+      ]
+    },
+    {
+      "id": "89ca52c7-1f39-4a47-a5cb-c488e6bb3b65",
+      "name": "Chappathi",
+      "price": 22,
+      "unit": "piece",
+      "category": "Breads",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "chappathi",
+        "chapathi",
+        "roti",
+        "bread",
+        "kerala"
+      ]
+    },
+    {
+      "id": "efbd3d76-436a-4577-99de-bdd7d68fb5e1",
+      "name": "Porotta",
+      "price": 22,
+      "unit": "piece",
+      "category": "Breads",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "porotta",
+        "parotta",
+        "paratha",
+        "kerala parotta",
+        "kerala bread",
+        "bread"
+      ]
+    },
+    {
+      "id": "63f56e2c-d804-4376-83bd-015f61d6159f",
+      "name": "Naan",
+      "price": 50,
+      "unit": "piece",
+      "category": "Breads",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "naan",
+        "naan bread",
+        "bread",
+        "indian bread"
+      ]
+    },
+    {
+      "id": "ca4009d4-dfc3-43d0-b0c6-6047998c36ae",
+      "name": "Butter Naan",
+      "price": 55,
+      "unit": "piece",
+      "category": "Breads",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "butter naan",
+        "naan",
+        "butter",
+        "bread"
+      ]
+    },
+    {
+      "id": "d51068dc-2d0a-4362-a28d-d2fa45b97fa5",
+      "name": "Garlic Naan",
+      "price": 60,
+      "unit": "piece",
+      "category": "Breads",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "garlic naan",
+        "naan",
+        "garlic",
+        "bread"
+      ]
+    },
+    {
+      "id": "204badda-dbd3-4fb8-9a24-9c13c0c29c11",
+      "name": "Malabar Rotti",
+      "price": 50,
+      "unit": "piece",
+      "category": "Breads",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "malabar rotti",
+        "malabar roti",
+        "rotti",
+        "kerala bread",
+        "bread"
+      ]
+    },
+    {
+      "id": "ca455553-f425-4ae7-8e49-52a78b23ce9e",
+      "name": "Tandoori Butter Rotti",
+      "price": 60,
+      "unit": "piece",
+      "category": "Breads",
+      "stock": null,
+      "available": true,
+      "keywords": [
+        "tandoori butter rotti",
+        "butter rotti",
+        "tandoori rotti",
+        "rotti",
+        "bread"
+      ]
+    }
+  ]
+}
